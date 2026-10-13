@@ -1,0 +1,7 @@
+BOT_TOKEN=
+WEBHOOK_SECRET=uzun_tasodifiy_satr_kiriting
+PUBLIC_URL=https://your-app.up.railway.app
+ADMIN_IDS=111111111,222222222
+DATABASE_URL=postgresql://user:pass@host:5432/dbname
+INITDATA_MAX_AGE=86400
+LOG_LEVEL=INFO
